@@ -1,0 +1,23 @@
+{
+  "name": "@bararan/npm_proj",
+  "version": "1.0.0",
+  "description": "First npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "bararan",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bararan/npm_proj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bararan/npm_proj/issues"
+  },
+  "homepage": "https://github.com/bararan/npm_proj#readme"
+}
